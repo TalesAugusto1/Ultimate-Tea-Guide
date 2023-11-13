@@ -1,0 +1,48 @@
+[
+    {
+        "Tea Name": "Fictional Tea 1",
+        "Tea History": "This tea has a long history...",
+        "Tea Description": "Delicious with different flavors.",
+        "Medical Benefits": "In long terms, it helps you reduce heart attack rates.",
+        "Good To": {
+            "headaches": 10,
+            "general pain": 5
+        },
+        "Use Limitations": "People with diabetes can't use this tea.",
+        "How to Cultivate": {
+            "Soil Type": "Loamy soil",
+            "Temperature": "20-30°C",
+            "Weather": "Humid",
+            "Seasons": "Spring and Autumn",
+            "Steps": {
+                "Step 1": "Prepare the soil.",
+                "Step 2": "Plant the seeds.",
+                "Step 3": "Water regularly.",
+                "Step 4": "Harvest when ready."
+            }
+        }
+    },
+    {
+        "Tea Name": "Fictional Tea 2",
+        "Tea History": "This tea was discovered recently...",
+        "Tea Description": "Has a unique taste.",
+        "Medical Benefits": "Helps improve digestion.",
+        "Good To": {
+            "stomach aches": 8,
+            "nausea": 6
+        },
+        "Use Limitations": "Not recommended for pregnant women.",
+        "How to Cultivate": {
+            "Soil Type": "Sandy soil",
+            "Temperature": "15-25°C",
+            "Weather": "Dry",
+            "Seasons": "Summer and Winter",
+            "Steps": {
+                "Step 1": "Prepare the soil.",
+                "Step 2": "Plant the seeds.",
+                "Step 3": "Water regularly.",
+                "Step 4": "Harvest when ready."
+            }
+        }
+    }
+]
